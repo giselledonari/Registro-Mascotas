@@ -12,28 +12,6 @@ El proyecto cuenta con las siguientes funcionalidades:
 - **Registrar mascota:** En la página "Registrar mascota" se puede registrar una nueva mascota completando un formulario.
 - **Eliminar dueño o mascota:** En la página "Eliminar" hay dos formularios, uno para eliminar al dueño y todas sus mascotas y otro para eliminar una mascota del dueño.
 
-## Capturas de pantalla
-
-Página principal "index":
-
-![Página principal](screenshots/index.png)
-
-Listado de mascotas:
-
-![Listado de mascotas](screenshots/listado.png)
-
-Buscador de mascotas:
-
-![Buscador de mascotas](screenshots/buscador.png)
-
-Registrar mascota:
-
-![Registrar mascota](screenshots/registrar.png)
-
-Eliminar dueño o mascota:
-
-![Eliminar](screenshots/eliminar.png)
-
 ## Tecnologías utilizadas
 
 El proyecto está desarrollado utilizando las siguientes tecnologías:
@@ -45,6 +23,30 @@ El proyecto está desarrollado utilizando las siguientes tecnologías:
 - Node.js
 - Express
 - FS
+
+
+## Capturas de pantalla
+
+Página principal "index":
+
+![Página principal](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr1.PNG)
+
+Listado de mascotas:
+
+![Listado de mascotas](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr2.PNG)
+
+Buscador de mascotas:
+
+![Buscador de mascotas](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr3.PNG)
+
+Registrar mascota:
+
+![Registrar mascota](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr4.PNG)
+
+Eliminar dueño o mascota:
+
+![Eliminar](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr5.PNG)
+
 
 ## Instalación y uso
 
