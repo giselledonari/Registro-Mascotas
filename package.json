@@ -1,0 +1,21 @@
+{
+  "name": "mascotas",
+  "version": "1.0.0",
+  "description": "Este proyecto es un registro nacional de mascotas que utiliza tecnologías web como HTML, CSS, JavaScript, EJS, Node.js, Express y FS para archivos JSON. Además, se creó y consumió una API REST a partir de los archivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {}
+}

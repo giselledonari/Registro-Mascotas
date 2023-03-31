@@ -1,0 +1,30 @@
+body{
+    color:#0f69b4;
+    
+}
+main{
+    min-height: 480px;
+}
+
+
+.logo{
+    width: 70px;
+    margin-right: 10px;
+}
+.color_nav{
+    color:#0f69b4;
+}
+.active_color{
+    background:#0f69b4;
+    color:white;
+}
+
+.jumbotron-imagen{
+    background-image: url("../images/fondo.jpg");
+    background-size: cover;
+    min-height: 700px;
+}
+
+.imgListado{
+    border-radius: 50%;
+}
