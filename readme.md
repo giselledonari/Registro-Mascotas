@@ -27,7 +27,7 @@ El proyecto está desarrollado utilizando las siguientes tecnologías:
 
 ## Capturas de pantalla
 
-Página principal "index":
+Página principal:
 
 ![Página principal](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr1.PNG)
 
@@ -37,15 +37,15 @@ Listado de mascotas:
 
 Buscador de mascotas:
 
-![Buscador de mascotas](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr3.PNG)
+![Buscador de mascotas](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/src3.PNG)
 
 Registrar mascota:
 
-![Registrar mascota](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr4.PNG)
+![Registrar mascota](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/src4.PNG)
 
 Eliminar dueño o mascota:
 
-![Eliminar](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/scr5.PNG)
+![Eliminar](https://github.com/giselledonari/Registro-Mascotas/blob/main/git/src5.PNG)
 
 
 ## Instalación y uso
